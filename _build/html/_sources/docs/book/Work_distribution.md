@@ -1,1 +1,2 @@
-test
+# Work Distribution
+We started this project by making a plan and dividing all the tasks. Achraf made sure GIT worked and then we divided the tasks so that every group member was at least responsible for one visualization and the text that comes with it. Those of us that only made one visualization worked more on the text for the other sections outside of the perspectives. With this approach, we made sure we had an equal workload and that everyone was involved. In the last week of this project we had a daily call where we discussed all the parts that still weren't done and divided those as well. 
