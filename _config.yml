@@ -1,8 +1,8 @@
 # Book settings
 # Learn more at https://jupyterbook.org/customize/config.html
 
-title: Understanding the Impact of Electricity Generation on Climate Change and CO2 Emissions # Change this to your book title.
-author: J1 # Change this to your name (or your team/organization name).
+title: Understanding the Impact on Climate Change and CO2 Emissions
+author: J1
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
